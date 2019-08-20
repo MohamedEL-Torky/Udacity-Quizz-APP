@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizAPP</string>
+    <string name="question1">The place where you write code into is called</string>
+    <string name="q1choice1">IDE</string>
+    <string name="q1choice2">JVM</string>
+    <string name="q1choice3">JDK</string>
+    <string name="q1choice4">UML</string>
+
+    <string name="question2">What is considered as a data structure</string>
+    <string name="q2choice1">Linked List</string>
+    <string name="q2choice2">Arrays</string>
+    <string name="q2choice3">For loop</string>
+    <string name="q2choice4">If Statement</string>
+
+    <string name="question3">Android applications can be developed by</string>
+    <string name="q3choice1">Java</string>
+    <string name="q3choice2">HTML</string>
+    <string name="q3choice3">CSS</string>
+    <string name="q3choice4">Kotlin</string>
+
+    <string name="question4">Who owns Android</string>
+
+    <string name="score">Score: %1$d %2$s</string>
+    <string name="next">Next</string>
+    <string name="retry">Retry</string>
+    <string name="submit">Submit</string>
+
+</resources>
